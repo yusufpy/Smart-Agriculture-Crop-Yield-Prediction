@@ -564,7 +564,7 @@ The current implementation is contained in the Jupyter Notebook. The `src/` stru
 ## 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/smart-agriculture-crop-yield-prediction.git
+git clone https://github.com/yusufpy/smart-agriculture-crop-yield-prediction.git
 
 cd smart-agriculture-crop-yield-prediction
 ```
