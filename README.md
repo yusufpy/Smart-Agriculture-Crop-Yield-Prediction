@@ -84,7 +84,7 @@ The notebook loads the dataset from:
 
 ```python
 pd.read_csv(
-    "/kaggle/input/datasets/samuelotiattakorah/agriculture-crop-yield/crop_yield.csv"
+    "agriculture-crop-yield/crop_yield.csv"
 )
 ```
 
